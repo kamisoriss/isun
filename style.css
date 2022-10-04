@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'BungeeSpice-Regular';
+    src: url('police/BungeeSpice-Regular.ttf') format('truetype')}
+    /*police custome + texte a coter h1
+h1{
+    font-size: 20pt;
+    font-family: 'BungeeSpice-Regular',sans-serif;
+}
+p{
+    display: inline-block;
+}
+span{
+    font-size: 12pt;
+}
+*/
+html{
+    font-family: 'BungeeSpice-Regular',sans-serif;
+    background-image: url('img/font.jpg');
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    padding-right: 150px;
+}
+#pcisun{
+    position: absolute;
+    margin-left: 380px;
+    font-size: 17pt;
+}
+a{
+    text-decoration: none;
+}
+#pc{
+    border: none;
+    text-decoration: none;
+    font-family: 'BungeeSpice-Regular', sans-serif;
+    background-color: transparent;
+    margin-top: 70px;
+    margin-left: 40px;
+    position: absolute;
+    rotate: -60deg;
+    font-size: 16pt;
+
+}
+@media all and (max-widht: 1000px){
+}
+
+#isunpc{
+    position: absolute;
+    margin-left: 210px;
+    margin-top: 100px;
+}

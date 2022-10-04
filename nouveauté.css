@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'BungeeSpice-Regular';
+    src: url('police/BungeeSpice-Regular.ttf') format('truetype')
+}
+html{
+    background-image: url("/img/font.jpg");
+    background-size: cover;
+    font-family: 'BungeeSpice-Regular';
+}
+h1{
+    text-align: center;
+    padding-right: 150px;
+}

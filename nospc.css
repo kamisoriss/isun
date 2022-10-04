@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'BungeeSpice-Regular';
+    src: url('/police/BungeeSpice-Regular.ttf') format('truetype')}
+html{
+    background-image: url("/img/font.jpg");
+    background-size: cover;
+    font-family: 'BungeeSpice-Regular';
+}
+p{
+    font-size: 16pt;
+}
+#coquiliage{
+    height: auto;
+    width: 100px;
+}  
+
+#isun{
+    margin-top: 500px;
+}
+#pcisunimg{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+table{
+    text-align-last: left;
+}
