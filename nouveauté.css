@@ -3,7 +3,7 @@
     src: url('police/BungeeSpice-Regular.ttf') format('truetype')
 }
 html{
-    background-image: url("/img/font.jpg");
+    background-image: url("img/font.jpg");
     background-size: cover;
     font-family: 'BungeeSpice-Regular';
 }
